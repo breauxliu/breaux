@@ -1,0 +1,17 @@
+{
+    "name": "composer 依赖学习",
+    "description": "breaux study code",
+    "license": "",
+    "authors": [
+        {
+            "name": "breaux",
+            "email": "tjlgdxlch@163.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog":"1.11.*",
+        "illuminate/database":"4.2.*",
+        "vlucas/valitron":"1.2.*"
+    }
+}
